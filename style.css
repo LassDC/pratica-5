@@ -1,0 +1,41 @@
+.caixa_colorida {
+    width: 200px;
+    height: 150px;
+    background-color: blue;
+    margin-top: 30px;
+    margin-right: 10px;
+    border:  5px black;
+}
+
+.caixa_bordada {
+    width: 350px;  
+    height: 250px;
+    background-color: white;   
+    border: 10px dashed gray;
+    margin: 20px;
+}
+
+.caixa_transparente {
+    width: 400px;
+    height: 300px;
+    border: 3px solid red;
+    opacity: 50%;
+}
+
+.caixa_arredondada {
+    width: 250px;
+    height: 180px;
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.caixa_sombra {
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    margin: 25px;
+}
